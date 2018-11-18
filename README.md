@@ -9,8 +9,8 @@ Design pattern is NOT coding, it is an approach.
 
 **** Benefits ****
 
-Makes your approach of the problem explainable, without getting into details
-Gives you ideas to come up with solutions under different circumstances
+Makes your approach of the problem explainable, without getting into details,
+Gives you ideas to come up with solutions under different circumstances,
 Can be combined like puzzle pieces
 Does not dictate a certain programing language
 
