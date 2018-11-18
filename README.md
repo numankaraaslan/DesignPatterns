@@ -1,11 +1,11 @@
 You can find simple and memorable examples of design patterns. Here is a summary with side notes:
 
-Algorithm: A word used by programmers when they do not want to explain what they did
-Design Pattern: A concept used by programmer when the DO want to explain what they did
-An approach to tackle any kind of development problem
-It is an architectural method
-You may be inventing of using a design pattern already in your code
-Design pattern is NOT coding, it is an approach
+Algorithm: A word used by programmers when they do not want to explain what they did.
+Design Pattern: A concept used by programmer when the DO want to explain what they did.
+An approach to tackle any kind of development problem.
+It is an architectural method.
+You may be inventing of using a design pattern already in your code.
+Design pattern is NOT coding, it is an approach.
 
 **** Benefits ****
 
