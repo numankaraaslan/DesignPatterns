@@ -1,6 +1,6 @@
 package patterns.Builder;
 
-public class Square
+public class Rectangle
 {
     private int edge = 0, edge2 = 0;
 
