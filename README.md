@@ -8,7 +8,7 @@ Design pattern is an approach to tackle any kind of development problem. It is a
 
 You may be inventing of using a design pattern already in your code. Design pattern is NOT coding, it is an approach
 
-**** Benefits ****
+<b>Benefits</b>
 
 - Makes your approach of the problem explainable, without getting into details
 
@@ -18,7 +18,7 @@ You may be inventing of using a design pattern already in your code. Design patt
 
 - Does not dictate a certain programing language
 
-**** Disadvantages ****
+<b>Disadvantages</b>
 
 - Does not always make coding easier or simpler
 
@@ -30,13 +30,13 @@ You may be inventing of using a design pattern already in your code. Design patt
 
 - Some are look-alikes
 
-**** When to use and why ****
+<b>When to use and why</b>
 
 Do NOT try to apply it everywhere. Documenting is more powerful than using a design pattern.
 
 Use it when, implementing a complex bussiness logic, there are tight constraints (Memory, CPU, Security), you are developing an API for other developers.
 
-**** Creational ****
+<b>Creational</b>
 
 Sinlgeton, Builder, Factory
 
@@ -44,7 +44,7 @@ Usage: Mostly for certain constraints or requirements.
 
 Tip: Whenever you create an object, there is a possible creational DP.
 
-**** Behavioural ****
+<b>Behavioural</b>
 
 Visitor, Observer, Strategy, Chain of Responsibility, Command, Mediator
 
@@ -52,7 +52,7 @@ Usage: Usually implemented for you own project
 
 Tip: When your codes start behaving, you would reailze there can be a behavioural DP.
 
-**** Structural ****
+<b>Structural</b>
 
 Proxy, Adapter, Decorator, Bridge, Facade
 
@@ -60,7 +60,7 @@ Usgae: Can be API implementations or when you are using a library that you canno
 
 Tip: The importance or necessity of structural DPs emerge when your code starts behaving.
 
-**** Extra ****
+<b>Extra</b>
 
 State pattern holds the properties and defines states of an object.
 
@@ -70,7 +70,7 @@ Iterator is hiding the complex iteration logic from outside by providing a simpl
 
 In a worfklow application, the flow can be implemented with Memento with the help of State and Iterator or Chain of Responsibility.
 
-**** The application of design patterns into your project ****
+<b>The application of design patterns into your project</b>
 
 Building a house is a nice example of design patterns in an application.
 
