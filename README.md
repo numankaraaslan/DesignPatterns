@@ -1,4 +1,8 @@
-You can find simple and memorable examples of design patterns. Here is a summary with side notes:
+You can support me by buying my course on udemy, which explains these codes.
+
+https://www.udemy.com/design-patterns-made-easy-java
+
+Here are simple and memorable examples of design patterns. Here is a summary with side notes:
 
 Algorithm: A word used by programmers when they do not want to explain what they did
 
