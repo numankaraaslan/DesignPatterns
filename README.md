@@ -1,6 +1,12 @@
 You can support me by buying my course on udemy, which explains these codes.
 
+English:
+
 https://www.udemy.com/design-patterns-made-easy-java
+
+Turkish:
+
+https://www.udemy.com/course/tasarim-desenleri-java
 
 Here are simple and memorable examples of design patterns. Here is a summary with side notes:
 
